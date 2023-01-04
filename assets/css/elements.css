@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    display: border-box;
+}
+
+html {
+    font-size: 62.5%;
+    scroll-behavior: smooth;
+}
+
+body {
+   font-family: 'Opens Sans', sans-serif;
+   font-size: 1.6rem;
+   color: var(--black);
+   line-height: 1.5;
+   
+}
+
+h2{
+    font-size: 6rem;
+    margin-bottom: 5rem;
+    text-transform: uppercase;
+    line-height: 1.2;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Montserrat', sans-serif;
+}
+a {
+    text-decoration: none;
+}
+
+p {
+margin-bottom: 3rem;
+}
